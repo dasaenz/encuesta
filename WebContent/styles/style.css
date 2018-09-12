@@ -1,0 +1,34 @@
+/* LAURA BARAJAS 04/07/2013: MODIFICACIÓN  DE LOS BORDES DEL BANNER */
+
+.FrameworkLogoBackground {
+	BORDER-RIGHT: 0px; PADDING-RIGHT: 0px; BORDER-TOP: 0px; PADDING-LEFT: 0px; BACKGROUND: url(../images/header_left.gif) #FFFFFF repeat-x; LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; OVERFLOW: hidden; BORDER-LEFT: 0px; WIDTH: 100%; PADDING-TOP: 0px; BORDER-BOTTOM: 0px; POSITION: relative; TOP: 0px;
+}
+
+.FrameworkProductHeading {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: normal; FONT-SIZE: 20px; Z-INDEX: 30; LEFT: 58px; PADDING-BOTTOM: 0px; COLOR: #FFFFFF; PADDING-TOP: 0px; FONT-FAMILY: Arial, Helvetica, sans-serif; WHITE-SPACE: nowrap; POSITION: absolute; TOP: 8px; HEIGHT: 20px;
+}
+
+/* COLOR, TAMAÑO Y TIPO DE LETRA */
+.txtLabel{
+	FONT-WEIGHT: normal; FONT-SIZE: 13px; Z-INDEX: 100; COLOR: #fffff; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+}
+
+BUTTON {
+	FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+}
+
+TD {
+	FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+}
+INPUT {
+	FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+}
+TEXTAREA {
+	FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+}
+SELECT {
+	FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+}
+
+
+
